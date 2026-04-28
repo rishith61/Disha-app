@@ -1,0 +1,11 @@
+# Ignore local environment secrets
+.env
+
+# Node dependencies
+node_modules/
+
+# Build outputs
+.dist/
+
+# Vite cache
+node_modules/.vite
